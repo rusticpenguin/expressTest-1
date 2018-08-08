@@ -1,26 +1,26 @@
 module.exports = [
     {
         "ID": 1,
-        "Cohort Name": "17-01-WD-DP",
-        "Cohort Code": "g100",
-        "Number of Students": 28
+        "cohortName": "17-01-WD-DP",
+        "cohortCode": "g100",
+        "numberOfStudents": 28
     },
     {
         "ID": 2,
-        "Cohort Name": "17-01-DS-GT",
-        "Cohort Code": "g105",
-        "Number of Students": 24
+        "cohortName": "17-01-DS-GT",
+        "cohortCode": "g105",
+        "numberOfStudents": 24
     },
     {
         "ID": 3,
-        "Cohort Name": "17-02-WD-PX",
-        "Cohort Code": "g109",
-        "Number of Students": 30
+        "cohortName": "17-02-WD-PX",
+        "cohortCode": "g109",
+        "numberOfStudents": 30
     },
     {
         "ID": 4,
-        "Cohort Name": "17-03-WD-BD",
-        "Cohort Code": "g110",
-        "Number of Students": 29
+        "cohortName": "17-03-WD-BD",
+        "cohortCode": "g110",
+        "numberOfStudents": 29
     }
 ]
