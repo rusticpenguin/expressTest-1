@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 8080;
+const PORT = process.env.PORT || 3000;
 const cors = require("cors");
 const cohortsData = require("./cohorts.js");
 
@@ -33,6 +33,4 @@ app.get("/:ID",(req, res, next) => {
     };
 });
 
-app.listen(port,() => {
-    console.log(`Free beans on port ${port}`);
-});
+app.listen(PORT);

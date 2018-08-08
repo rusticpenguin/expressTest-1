@@ -7,13 +7,10 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "George",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.4",
-    "express": "^4.16.3",
-    "knex": "^0.15.2",
-    "node": "^10.8.0",
-    "nodemon": "^1.18.3"
+    "express": "^4.16.3"
   }
 }
